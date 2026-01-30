@@ -1,2 +1,2 @@
 # roundly-sms-compliance
-SMS Compliance Statemen for Roundly.golf
+SMS Compliance Statement for Roundly.golf
